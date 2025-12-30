@@ -1,5 +1,4 @@
 # Secure-Upload-Service
-📤 Secure-Upload-Service
 
-
-- Automated update for PR #1-1764734697-750
+🛡️ **Secure-Upload-Service**: A high-performance file transfer daemon written in C++.
+🔒 Features end-to-end encryption (AES-256), memory safety checks, and zero-knowledge architecture.
